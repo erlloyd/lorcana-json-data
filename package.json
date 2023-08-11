@@ -1,0 +1,15 @@
+{
+  "name": "lorcana-json-data",
+  "version": "1.0.0",
+  "description": "JSON data around lorcana cards, sourced from various other sites",
+  "main": "index.js",
+  "scripts": {
+    "import": "node scripts/import.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
