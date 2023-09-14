@@ -10,6 +10,11 @@ const allSets = [
     apiSetName: "1",
     englishSetName: "The First Chapter",
   },
+  {
+    apiSetName: "2",
+    englishSetName: "Rise of the Floodborn",
+    missingLorcanitoImages: true,
+  },
 ];
 
 const axiosCache = {};
@@ -84,14 +89,20 @@ const doImport = async () => {
 
     // go through and set primary and fallback image urls
     // TODO: Probably going to need to map the set number here somehow
-    const cards = response.cards.map((c) => ({
-      ...c,
-      FrontImage: `https://lorcanito.imgix.net/images/cards/EN/001/${(
-        "000" + c.number
-      ).substr(-3)}.webp?w=300`,
-      FrontImageAlt: c.image,
-      BackImage: `https://lorcanito.imgix.net/images/tts/card/card-back.png?w=300`,
-    }));
+    const cards = response.cards.map((c) => {
+      const frontImage = set.missingLorcanitoImages
+        ? c.image
+        : `https://lorcanito.imgix.net/images/cards/EN/001/${(
+            "000" + c.number
+          ).substr(-3)}.webp?w=300`;
+
+      return {
+        ...c,
+        FrontImage: frontImage,
+        FrontImageAlt: c.image,
+        BackImage: `https://lorcanito.imgix.net/images/tts/card/card-back.png?w=300`,
+      };
+    });
 
     fs.writeFileSync(
       path.join(setsDir, set.englishSetName + ".json"),
