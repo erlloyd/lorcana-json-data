@@ -2131,7 +2131,7 @@
         "defence": 4,
         "color": 5,
         "type": "glimmer",
-        "action": "<mark>ANIMATE BROOM</mark> You pay 1 ⬡ less to play Broom characters.<br /> <mark>CEASELESS WORKER</mark> Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
+        "action": "<mark>ANIMATE BROOM</mark> You pay 1 ⬡ less to play Broom characters.<br /><mark>CEASELESS WORKER</mark> Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
         "flavour": "He always goes for the clean sweep.",
         "separator": "pen",
         "stars": 2,
@@ -6390,7 +6390,7 @@
         "defence": 7,
         "color": 2,
         "type": "glimmer",
-        "action": "<mark>GIVE IT A TRY</mark> Whenever this character quests, you pay 2 ⬡ less for the next item you play this turn.<br /> <mark>IT WORKS!</mark> Whenever you play an item, you may draw a card.",
+        "action": "<mark>GIVE IT A TRY</mark> Whenever this character quests, you pay 2 ⬡ less for the next item you play this turn.<br /><mark>IT WORKS!</mark> Whenever you play an item, you may draw a card.",
         "flavour": null,
         "separator": null,
         "stars": 2,
@@ -8755,7 +8755,7 @@
         "defence": 4,
         "color": 5,
         "type": "glimmer",
-        "action": "<mark>ANIMATE BROOM</mark> You pay 1 ⬡ less to play Broom characters.<br /> <mark>CEASELESS WORKER</mark> Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
+        "action": "<mark>ANIMATE BROOM</mark> You pay 1 ⬡ less to play Broom characters.<br /><mark>CEASELESS WORKER</mark> Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand.",
         "flavour": null,
         "separator": null,
         "stars": 2,
