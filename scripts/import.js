@@ -96,6 +96,9 @@ const doImport = async () => {
             "000" + c.number
           ).substr(-3)}.webp?w=300`;
 
+      //Remove the pricing information because it changes all the time
+      delete c.prices;
+
       return {
         ...c,
         FrontImage: frontImage,
