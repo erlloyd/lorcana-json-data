@@ -15,6 +15,11 @@ const allSets = [
     englishSetName: "Rise of the Floodborn",
     missingLorcanitoImages: true,
   },
+  {
+    apiSetName: "3",
+    englishSetName: "Into the Inklands",
+    missingLorcanitoImages: true,
+  },
 ];
 
 const axiosCache = {};
