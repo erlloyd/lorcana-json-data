@@ -22,6 +22,13 @@ const allSets = [
   },
 ];
 
+const cardOverrides = {
+  591: {
+    name: "Chernabog's Followers",
+    title: "Creatures of Evil",
+  },
+};
+
 const axiosCache = {};
 
 const DEFAULT_SEARCH_PAYLOAD = {
@@ -104,8 +111,11 @@ const doImport = async () => {
       //Remove the pricing information because it changes all the time
       delete c.prices;
 
+      const overrides = cardOverrides[c.id] ?? {};
+
       return {
         ...c,
+        ...overrides,
         FrontImage: frontImage,
         FrontImageAlt: c.image,
         BackImage: `https://lorcanito.imgix.net/images/tts/card/card-back.png?w=300`,
