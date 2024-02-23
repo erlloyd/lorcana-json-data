@@ -29,7 +29,7 @@ const DEFAULT_SEARCH_PAYLOAD = {
   sets: [],
   traits: [],
   keywords: [],
-  costs: [1, 2, 3, 4, 5, 6, 7, 8, 9],
+  costs: [],
   inkwell: [],
   rarity: [],
   language: "English",
