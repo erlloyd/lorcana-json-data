@@ -20,6 +20,11 @@ const allSets = [
     englishSetName: "Into the Inklands",
     missingLorcanitoImages: true,
   },
+  {
+    apiSetName: "4",
+    englishSetName: "Ursula's Return",
+    missingLorcanitoImages: true,
+  },
 ];
 
 const cardOverrides = {
