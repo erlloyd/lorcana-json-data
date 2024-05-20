@@ -1,5 +1,6 @@
 [
     {
+        "quest": "deep_trouble",
         "id": "Q1_Villain1",
         "name": "Ursula",
         "title": "Ruler of Lorcana",
@@ -10,6 +11,7 @@
         "BackImage": "https://ik.imagekit.io/cardtable/lorcana/coop/lorcana_quest_back.png"
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_BG1",
         "name": "The Encounter",
         "title": "",
@@ -20,6 +22,7 @@
         "BackImage": "https://ik.imagekit.io/cardtable/lorcana/coop/Q1_BG1.png"
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_BG2",
         "name": "A Dark Realm",
         "title": "",
@@ -30,6 +33,7 @@
         "BackImage": "https://ik.imagekit.io/cardtable/lorcana/coop/Q1_BG2.png"
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_BG3",
         "name": "The Lair",
         "title": "",
@@ -40,6 +44,7 @@
         "BackImage": "https://ik.imagekit.io/cardtable/lorcana/coop/Q1_BG3.png"
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_BG4",
         "name": "Infinite Wrath",
         "title": "",
@@ -50,6 +55,7 @@
         "BackImage": "https://ik.imagekit.io/cardtable/lorcana/coop/Q1_BG4.png"
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_1",
         "name": "Anna",
         "title": "Ensnared Sister",
@@ -61,6 +67,7 @@
         "Quantity": 2
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_2",
         "name": "Bruno Madrigal",
         "title": "Unspeakable Seer",
@@ -72,6 +79,7 @@
         "Quantity": 2
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_3",
         "name": "Captain Hook",
         "title": "Devious Duelist",
@@ -83,6 +91,7 @@
         "Quantity": 2
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_4",
         "name": "Flotsam",
         "title": "Wicked Defender",
@@ -94,6 +103,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_5",
         "name": "Gaston",
         "title": "Egotistical Bully",
@@ -105,6 +115,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_6",
         "name": "Heihei",
         "title": "Peckish Pal",
@@ -116,6 +127,7 @@
         "Quantity": 2
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_7",
         "name": "Hercules",
         "title": "Manipulated Hero",
@@ -127,6 +139,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_8",
         "name": "Jafar",
         "title": "Double-Crossing Vizier",
@@ -138,6 +151,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_9",
         "name": "Jetsam",
         "title": "Wicked Whisperer",
@@ -149,6 +163,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_10",
         "name": "Mad Hatter",
         "title": "Sinister Host",
@@ -160,6 +175,7 @@
         "Quantity": 2
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_11",
         "name": "Magica de Spell",
         "title": "Shadowy Sorceress",
@@ -171,6 +187,7 @@
         "Quantity": 2
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_12",
         "name": "Minnie Mouse",
         "title": "Wild-Eyed Diver",
@@ -182,6 +199,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_13",
         "name": "Prince Eric",
         "title": "Grim Groom",
@@ -193,6 +211,7 @@
         "Quantity": 2
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_14",
         "name": "Shark",
         "title": "Toothy Terror",
@@ -204,6 +223,7 @@
         "Quantity": 2
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_15",
         "name": "Tamatoa",
         "title": "Grabby Crab",
@@ -215,6 +235,7 @@
         "Quantity": 2
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_16",
         "name": "Triton's Daughters",
         "title": "Discordant Chorus",
@@ -226,6 +247,7 @@
         "Quantity": 4
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_17",
         "name": "Capsize",
         "title": "",
@@ -237,6 +259,7 @@
         "Quantity": 2
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_18",
         "name": "Choppy Waters",
         "title": "",
@@ -248,6 +271,7 @@
         "Quantity": 2
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_19",
         "name": "Crushing Wave",
         "title": "",
@@ -259,6 +283,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_20",
         "name": "Entangling Magic",
         "title": "",
@@ -270,6 +295,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_21",
         "name": "Fortunate Hit",
         "title": "",
@@ -281,6 +307,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_22",
         "name": "Lash Out",
         "title": "",
@@ -292,6 +319,7 @@
         "Quantity": 2
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_23",
         "name": "Lightning Storm",
         "title": "",
@@ -303,6 +331,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_24",
         "name": "Riptide",
         "title": "",
@@ -314,6 +343,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_25",
         "name": "Tentacle Swipe",
         "title": "",
@@ -325,6 +355,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_26",
         "name": "Tsunami",
         "title": "",
@@ -336,6 +367,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_27",
         "name": "Typhoon",
         "title": "",
@@ -347,6 +379,7 @@
         "Quantity": 2
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_28",
         "name": "Whirlpool",
         "title": "",
@@ -358,6 +391,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_29",
         "name": "The Hexwell Crown",
         "title": "",
@@ -369,6 +403,7 @@
         "Quantity": 1
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_30",
         "name": "Ursula's Contract",
         "title": "",
@@ -380,6 +415,7 @@
         "Quantity": 4
     },
     {
+        "quest": "deep_trouble",
         "id": "Q1_31",
         "name": "Ursula's Stolen Trident",
         "title": "",
