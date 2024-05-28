@@ -28,9 +28,11 @@ const allSets = [
 ];
 
 const cardOverrides = {
-  591: {
-    name: "Chernabog's Followers",
-    title: "Creatures of Evil",
+  823: {
+    title: "Empowered Sibling",
+  },
+  824: {
+    name: "Glean",
   },
 };
 
