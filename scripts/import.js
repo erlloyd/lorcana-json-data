@@ -25,6 +25,11 @@ const allSets = [
     englishSetName: "Ursula's Return",
     missingLorcanitoImages: true,
   },
+  {
+    apiSetName: "5",
+    englishSetName: "Shimmering Skies",
+    missingLorcanitoImages: true,
+  },
 ];
 
 const cardOverrides = {
