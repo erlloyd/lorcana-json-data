@@ -130,7 +130,7 @@ const doImport = async () => {
         ...overrides,
         FrontImage: frontImage,
         FrontImageAlt: c.image,
-        BackImage: `https://lorcanito.imgix.net/images/tts/card/card-back.png?w=300`,
+        BackImage: `https://cf.geekdo-images.com/An6FTVYqLkDcUp-kFJjdRA__imagepagezoom/img/UhSGtYe0Xn8k67uyx3_GEjGgDuE=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic7940425.png`,
       };
     });
 
