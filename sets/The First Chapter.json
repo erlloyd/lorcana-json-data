@@ -24,6 +24,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-25 10:05:46",
         "updated_at": "2023-04-25 10:05:46",
         "traits": [
@@ -60,6 +61,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-13 17:53:53",
         "updated_at": "2023-07-13 17:53:53",
         "traits": [
@@ -96,6 +98,7 @@
         "franchise_id": 18,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 10:07:13",
         "updated_at": "2023-07-25 10:07:13",
         "traits": [
@@ -132,6 +135,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-26 18:44:02",
         "updated_at": "2023-06-26 18:44:02",
         "traits": [
@@ -168,6 +172,7 @@
         "franchise_id": 9,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-17 17:57:47",
         "updated_at": "2023-01-17 17:57:47",
         "traits": [
@@ -205,6 +210,7 @@
         "franchise_id": 9,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-14 18:16:15",
         "updated_at": "2023-04-14 18:16:15",
         "traits": [
@@ -227,7 +233,7 @@
         "color": 4,
         "type": "glimmer",
         "action": "<b>Support</b> <i>(Whenever this character quests, you\u0003 may add their ※ to another chosen character‘s ※ this turn.)</i>",
-        "flavour": "„Sometimes, our strengths lie beneath the surface.\u0003Far beneath, in some cases. . . .“<br />\u0003−Moana",
+        "flavour": "“Sometimes, our strengths lie beneath the surface.\u0003Far beneath, in some cases. . . .”\n−Moana",
         "separator": "book",
         "stars": 1,
         "illustrator": "Jenna Gray",
@@ -241,6 +247,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-14 20:24:52",
         "updated_at": "2023-04-14 20:24:52",
         "traits": [
@@ -276,6 +283,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-17 18:22:24",
         "updated_at": "2023-04-17 18:22:24",
         "traits": [
@@ -311,6 +319,7 @@
         "franchise_id": 2,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-09 21:31:36",
         "updated_at": "2023-07-09 21:31:36",
         "traits": [
@@ -346,6 +355,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 09:36:14",
         "updated_at": "2023-07-21 09:36:14",
         "traits": [
@@ -381,6 +391,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-25 10:09:15",
         "updated_at": "2023-04-25 10:09:15",
         "traits": [
@@ -416,6 +427,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-14 20:38:33",
         "updated_at": "2023-04-14 20:38:33",
         "traits": [
@@ -451,6 +463,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-17 13:06:04",
         "updated_at": "2023-04-17 13:06:04",
         "traits": [
@@ -486,6 +499,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-17 15:03:16",
         "updated_at": "2023-01-17 15:03:16",
         "traits": [
@@ -522,6 +536,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 11:13:47",
         "updated_at": "2023-07-25 11:13:47",
         "traits": [
@@ -558,6 +573,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-17 07:06:53",
         "updated_at": "2023-07-17 07:06:53",
         "traits": [
@@ -594,6 +610,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 11:17:02",
         "updated_at": "2023-07-25 11:17:02",
         "traits": [
@@ -629,6 +646,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 09:32:24",
         "updated_at": "2023-07-21 09:32:24",
         "traits": [
@@ -665,6 +683,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-14 17:38:23",
         "updated_at": "2023-07-14 17:38:23",
         "traits": [
@@ -700,6 +719,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-06 14:18:14",
         "updated_at": "2023-07-06 14:18:14",
         "traits": [
@@ -736,6 +756,7 @@
         "franchise_id": 2,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-26 21:10:04",
         "updated_at": "2023-06-26 21:10:04",
         "traits": [
@@ -772,6 +793,7 @@
         "franchise_id": 2,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-14 18:04:56",
         "updated_at": "2023-04-14 18:04:56",
         "traits": [
@@ -808,6 +830,7 @@
         "franchise_id": 2,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-23 14:37:30",
         "updated_at": "2023-01-23 14:37:30",
         "traits": [
@@ -844,6 +867,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-05-16 16:31:37",
         "updated_at": "2023-05-16 16:31:37",
         "traits": [
@@ -879,6 +903,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-25 22:13:27",
         "updated_at": "2023-04-25 22:13:27",
         "traits": [
@@ -914,6 +939,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-17 14:07:03",
         "updated_at": "2023-04-17 14:07:03",
         "traits": [
@@ -948,6 +974,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-20 13:16:46",
         "updated_at": "2023-07-20 13:16:46",
         "traits": [
@@ -983,6 +1010,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-02-18 19:54:50",
         "updated_at": "2023-02-18 19:54:50",
         "traits": [
@@ -1017,6 +1045,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-17 18:24:34",
         "updated_at": "2023-04-17 18:24:34",
         "traits": [
@@ -1051,6 +1080,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-14 19:57:55",
         "updated_at": "2023-04-14 19:57:55",
         "traits": [
@@ -1086,6 +1116,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 11:26:21",
         "updated_at": "2023-07-25 11:26:21",
         "traits": [
@@ -1120,6 +1151,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-13 18:07:23",
         "updated_at": "2023-04-13 18:07:23",
         "traits": [
@@ -1154,6 +1186,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-17 12:24:51",
         "updated_at": "2023-04-17 12:24:51",
         "traits": [
@@ -1188,6 +1221,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-14 18:37:06",
         "updated_at": "2023-07-14 18:37:06",
         "traits": [
@@ -1222,6 +1256,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-13 17:28:20",
         "updated_at": "2023-07-13 17:28:20",
         "traits": [
@@ -1258,6 +1293,7 @@
         "franchise_id": 23,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-15 17:15:32",
         "updated_at": "2023-06-15 17:15:32",
         "traits": [
@@ -1293,6 +1329,7 @@
         "franchise_id": 22,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 09:43:22",
         "updated_at": "2023-07-25 09:43:22",
         "traits": [
@@ -1329,6 +1366,7 @@
         "franchise_id": 22,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-25 10:12:53",
         "updated_at": "2023-04-25 10:12:53",
         "traits": [
@@ -1365,6 +1403,7 @@
         "franchise_id": 22,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 11:44:55",
         "updated_at": "2023-07-25 11:44:55",
         "traits": [
@@ -1401,6 +1440,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 16:06:27",
         "updated_at": "2023-07-21 16:06:27",
         "traits": [
@@ -1438,6 +1478,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-23 16:21:32",
         "updated_at": "2023-01-23 16:21:32",
         "traits": [
@@ -1475,6 +1516,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 20:13:53",
         "updated_at": "2023-07-21 20:13:53",
         "traits": [
@@ -1512,6 +1554,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-10 16:27:19",
         "updated_at": "2023-07-10 16:27:19",
         "traits": [
@@ -1547,6 +1590,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-22 07:25:52",
         "updated_at": "2023-07-22 07:25:52",
         "traits": [
@@ -1583,6 +1627,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-25 10:16:02",
         "updated_at": "2023-04-25 10:16:02",
         "traits": [
@@ -1619,6 +1664,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-10 16:31:23",
         "updated_at": "2023-07-10 16:31:23",
         "traits": [
@@ -1654,6 +1700,7 @@
         "franchise_id": 19,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-14 17:22:42",
         "updated_at": "2023-04-14 17:22:42",
         "traits": [
@@ -1689,6 +1736,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-17 12:55:08",
         "updated_at": "2023-04-17 12:55:08",
         "traits": [
@@ -1725,6 +1773,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-25 10:22:11",
         "updated_at": "2023-04-25 10:22:11",
         "traits": [
@@ -1761,6 +1810,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-19 17:28:15",
         "updated_at": "2023-07-19 17:28:15",
         "traits": [
@@ -1796,6 +1846,7 @@
         "franchise_id": 19,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-10 20:07:36",
         "updated_at": "2023-04-10 20:07:36",
         "traits": [
@@ -1831,6 +1882,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2022-12-26 18:16:40",
         "updated_at": "2022-12-26 18:16:40",
         "traits": [
@@ -1866,6 +1918,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-17 14:58:34",
         "updated_at": "2023-01-17 14:58:34",
         "traits": [
@@ -1901,6 +1954,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-15 17:19:17",
         "updated_at": "2023-06-15 17:19:17",
         "traits": [
@@ -1937,6 +1991,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-26 19:04:55",
         "updated_at": "2023-06-26 19:04:55",
         "traits": [
@@ -1972,6 +2027,7 @@
         "franchise_id": 15,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 11:49:03",
         "updated_at": "2023-07-25 11:49:03",
         "traits": [
@@ -2008,6 +2064,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-02-23 23:03:44",
         "updated_at": "2023-02-23 23:03:44",
         "traits": [
@@ -2043,6 +2100,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 20:22:33",
         "updated_at": "2023-07-21 20:22:33",
         "traits": [
@@ -2079,6 +2137,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 13:27:16",
         "updated_at": "2023-07-25 13:27:16",
         "traits": [
@@ -2115,6 +2174,7 @@
         "franchise_id": 20,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-10 22:17:16",
         "updated_at": "2023-04-10 22:17:16",
         "traits": [
@@ -2151,6 +2211,7 @@
         "franchise_id": 9,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-28 18:05:42",
         "updated_at": "2023-06-28 18:05:42",
         "traits": [
@@ -2186,6 +2247,7 @@
         "franchise_id": 23,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-06 14:08:07",
         "updated_at": "2023-07-06 14:08:07",
         "traits": [
@@ -2220,6 +2282,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 13:36:48",
         "updated_at": "2023-07-25 13:36:48",
         "traits": [
@@ -2240,7 +2303,7 @@
         "color": 5,
         "type": "song",
         "action": "<i>(A character with cost 3 or more can ↷ to sing this song for free.)</i><br />\nDraw 2 cards.",
-        "flavour": "The cards, the cards<br />\rthe cards will tell . . .",
+        "flavour": "The cards, the cards\nthe cards will tell . . .",
         "separator": "clef",
         "stars": 0,
         "illustrator": "Amber Kommavongsa",
@@ -2254,6 +2317,7 @@
         "franchise_id": 22,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-25 10:27:48",
         "updated_at": "2023-04-25 10:27:48",
         "traits": [
@@ -2289,6 +2353,7 @@
         "franchise_id": 8,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-20 13:15:06",
         "updated_at": "2023-07-20 13:15:06",
         "traits": [
@@ -2324,6 +2389,7 @@
         "franchise_id": 15,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-02-14 22:26:47",
         "updated_at": "2023-02-14 22:26:47",
         "traits": [
@@ -2358,6 +2424,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-24 14:38:08",
         "updated_at": "2023-07-24 14:38:08",
         "traits": [
@@ -2392,6 +2459,7 @@
         "franchise_id": 16,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-03-02 17:04:14",
         "updated_at": "2023-03-02 17:04:14",
         "traits": [
@@ -2426,6 +2494,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-02-23 23:03:44",
         "updated_at": "2023-02-23 23:03:44",
         "traits": [
@@ -2462,6 +2531,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-15 17:24:21",
         "updated_at": "2023-06-15 17:24:21",
         "traits": [
@@ -2498,6 +2568,7 @@
         "franchise_id": 16,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-01 11:53:01",
         "updated_at": "2023-04-01 11:53:01",
         "traits": [
@@ -2532,6 +2603,7 @@
         "franchise_id": 4,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-23 16:21:32",
         "updated_at": "2023-01-23 16:21:32",
         "traits": [
@@ -2567,6 +2639,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-17 17:48:36",
         "updated_at": "2023-07-17 17:48:36",
         "traits": [
@@ -2602,6 +2675,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 09:34:08",
         "updated_at": "2023-07-21 09:34:08",
         "traits": [
@@ -2638,6 +2712,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-14 08:17:13",
         "updated_at": "2023-06-14 08:17:13",
         "traits": [
@@ -2673,6 +2748,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 13:57:24",
         "updated_at": "2023-07-25 13:57:24",
         "traits": [
@@ -2708,6 +2784,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 18:57:38",
         "updated_at": "2023-07-21 18:57:38",
         "traits": [
@@ -2743,6 +2820,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-18 17:40:19",
         "updated_at": "2023-07-18 17:40:19",
         "traits": [
@@ -2779,6 +2857,7 @@
         "franchise_id": 4,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 20:06:29",
         "updated_at": "2023-07-21 20:06:29",
         "traits": [
@@ -2814,6 +2893,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-05-16 16:40:58",
         "updated_at": "2023-05-16 16:40:58",
         "traits": [
@@ -2849,6 +2929,7 @@
         "franchise_id": 4,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 20:00:41",
         "updated_at": "2023-07-21 20:00:41",
         "traits": [
@@ -2884,6 +2965,7 @@
         "franchise_id": 24,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 19:50:05",
         "updated_at": "2023-07-21 19:50:05",
         "traits": [
@@ -2922,6 +3004,7 @@
         "franchise_id": 2,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-13 17:57:29",
         "updated_at": "2023-01-13 17:57:29",
         "traits": [
@@ -2958,6 +3041,7 @@
         "franchise_id": 20,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 17:44:39",
         "updated_at": "2023-07-21 17:44:39",
         "traits": [
@@ -2993,6 +3077,7 @@
         "franchise_id": 18,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-03-19 18:13:14",
         "updated_at": "2023-03-19 18:13:14",
         "traits": [
@@ -3028,6 +3113,7 @@
         "franchise_id": 16,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 10:13:00",
         "updated_at": "2023-07-25 10:13:00",
         "traits": [
@@ -3062,6 +3148,7 @@
         "franchise_id": 9,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 16:01:54",
         "updated_at": "2023-07-21 16:01:54",
         "traits": [
@@ -3097,6 +3184,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-20 18:56:37",
         "updated_at": "2023-07-20 18:56:37",
         "traits": [
@@ -3132,6 +3220,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-17 18:26:34",
         "updated_at": "2023-04-17 18:26:34",
         "traits": [
@@ -3168,6 +3257,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-24 22:04:54",
         "updated_at": "2023-07-24 22:04:54",
         "traits": [
@@ -3203,6 +3293,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-28 17:58:45",
         "updated_at": "2023-06-28 17:58:45",
         "traits": [
@@ -3238,6 +3329,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 14:20:15",
         "updated_at": "2023-07-25 14:20:15",
         "traits": [
@@ -3272,6 +3364,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 15:15:18",
         "updated_at": "2023-07-25 15:15:18",
         "traits": [
@@ -3308,6 +3401,7 @@
         "franchise_id": 18,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-20 19:05:03",
         "updated_at": "2023-07-20 19:05:03",
         "traits": [
@@ -3342,6 +3436,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-20 13:13:26",
         "updated_at": "2023-07-20 13:13:26",
         "traits": [
@@ -3377,6 +3472,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-18 20:08:04",
         "updated_at": "2023-07-18 20:08:04",
         "traits": [
@@ -3411,6 +3507,7 @@
         "franchise_id": 6,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 10:22:46",
         "updated_at": "2023-07-25 10:22:46",
         "traits": [
@@ -3445,6 +3542,7 @@
         "franchise_id": 4,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-24 19:02:30",
         "updated_at": "2023-07-24 19:02:30",
         "traits": [
@@ -3480,6 +3578,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-25 22:11:08",
         "updated_at": "2023-04-25 22:11:08",
         "traits": [
@@ -3514,6 +3613,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-20 06:47:50",
         "updated_at": "2023-07-20 06:47:50",
         "traits": [
@@ -3548,6 +3648,7 @@
         "franchise_id": 22,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 15:30:33",
         "updated_at": "2023-07-25 15:30:33",
         "traits": [
@@ -3582,6 +3683,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-20 19:19:15",
         "updated_at": "2023-07-20 19:19:15",
         "traits": [
@@ -3616,6 +3718,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 19:43:06",
         "updated_at": "2023-07-21 19:43:06",
         "traits": [
@@ -3651,6 +3754,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-13 20:59:40",
         "updated_at": "2023-04-13 20:59:40",
         "traits": [
@@ -3686,6 +3790,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-17 07:11:05",
         "updated_at": "2023-07-17 07:11:05",
         "traits": [
@@ -3721,6 +3826,7 @@
         "franchise_id": 4,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 10:28:11",
         "updated_at": "2023-07-25 10:28:11",
         "traits": [
@@ -3757,6 +3863,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-24 20:03:48",
         "updated_at": "2023-07-24 20:03:48",
         "traits": [
@@ -3794,6 +3901,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-17 17:38:00",
         "updated_at": "2023-04-17 17:38:00",
         "traits": [
@@ -3828,6 +3936,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 20:20:07",
         "updated_at": "2023-07-21 20:20:07",
         "traits": [
@@ -3865,6 +3974,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-14 07:20:42",
         "updated_at": "2023-07-14 07:20:42",
         "traits": [
@@ -3900,6 +4010,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-03-29 17:19:35",
         "updated_at": "2023-03-29 17:19:35",
         "traits": [
@@ -3935,6 +4046,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-24 19:08:38",
         "updated_at": "2023-07-24 19:08:38",
         "traits": [
@@ -3970,6 +4082,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-23 16:21:32",
         "updated_at": "2023-01-23 16:21:32",
         "traits": [
@@ -4006,6 +4119,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 16:44:07",
         "updated_at": "2023-07-25 16:44:07",
         "traits": [
@@ -4042,6 +4156,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-03-16 19:01:21",
         "updated_at": "2023-03-16 19:01:21",
         "traits": [
@@ -4077,6 +4192,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-17 19:06:36",
         "updated_at": "2023-07-17 19:06:36",
         "traits": [
@@ -4112,6 +4228,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 16:51:56",
         "updated_at": "2023-07-25 16:51:56",
         "traits": [
@@ -4148,6 +4265,7 @@
         "franchise_id": 8,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-17 17:54:23",
         "updated_at": "2023-01-17 17:54:23",
         "traits": [
@@ -4184,6 +4302,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 16:54:24",
         "updated_at": "2023-07-25 16:54:24",
         "traits": [
@@ -4219,6 +4338,7 @@
         "franchise_id": 4,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-07 18:50:11",
         "updated_at": "2023-07-07 18:50:11",
         "traits": [
@@ -4254,6 +4374,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-26 18:35:26",
         "updated_at": "2023-06-26 18:35:26",
         "traits": [
@@ -4290,6 +4411,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-10 21:13:31",
         "updated_at": "2023-04-10 21:13:31",
         "traits": [
@@ -4325,6 +4447,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 19:46:04",
         "updated_at": "2023-07-21 19:46:04",
         "traits": [
@@ -4361,6 +4484,7 @@
         "franchise_id": 4,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-05-16 16:38:14",
         "updated_at": "2023-05-16 16:38:14",
         "traits": [
@@ -4395,6 +4519,7 @@
         "franchise_id": 2,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 10:32:56",
         "updated_at": "2023-07-25 10:32:56",
         "traits": [
@@ -4431,6 +4556,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 17:02:09",
         "updated_at": "2023-07-25 17:02:09",
         "traits": [
@@ -4467,6 +4593,7 @@
         "franchise_id": 17,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-03-20 18:13:14",
         "updated_at": "2023-03-20 18:13:14",
         "traits": [
@@ -4502,6 +4629,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-20 13:09:58",
         "updated_at": "2023-07-20 13:09:58",
         "traits": [
@@ -4537,6 +4665,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-24 20:07:44",
         "updated_at": "2023-07-24 20:07:44",
         "traits": [
@@ -4571,6 +4700,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2022-12-20 18:21:54",
         "updated_at": "2022-12-20 18:21:54",
         "traits": [
@@ -4605,6 +4735,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-15 05:58:50",
         "updated_at": "2023-07-15 05:58:50",
         "traits": [
@@ -4639,6 +4770,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-24 21:26:26",
         "updated_at": "2023-07-24 21:26:26",
         "traits": [
@@ -4673,6 +4805,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-24 20:23:06",
         "updated_at": "2023-07-24 20:23:06",
         "traits": [
@@ -4707,6 +4840,7 @@
         "franchise_id": 15,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-24 14:35:47",
         "updated_at": "2023-07-24 14:35:47",
         "traits": [
@@ -4741,6 +4875,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 10:38:17",
         "updated_at": "2023-07-25 10:38:17",
         "traits": [
@@ -4775,6 +4910,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-24 21:27:57",
         "updated_at": "2023-07-24 21:27:57",
         "traits": [
@@ -4809,6 +4945,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-28 17:52:25",
         "updated_at": "2023-06-28 17:52:25",
         "traits": [
@@ -4845,6 +4982,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-22 12:41:48",
         "updated_at": "2023-04-22 12:41:48",
         "traits": [
@@ -4881,6 +5019,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-17 14:59:37",
         "updated_at": "2023-01-17 14:59:37",
         "traits": [
@@ -4917,6 +5056,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-16 12:41:58",
         "updated_at": "2023-04-16 12:41:58",
         "traits": [
@@ -4953,6 +5093,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-17 16:44:10",
         "updated_at": "2023-04-17 16:44:10",
         "traits": [
@@ -4990,6 +5131,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-24 22:02:00",
         "updated_at": "2023-07-24 22:02:00",
         "traits": [
@@ -5026,6 +5168,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 17:04:05",
         "updated_at": "2023-07-25 17:04:05",
         "traits": [
@@ -5062,6 +5205,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-30 18:23:18",
         "updated_at": "2023-06-30 18:23:18",
         "traits": [
@@ -5098,6 +5242,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-13 21:49:13",
         "updated_at": "2023-04-13 21:49:13",
         "traits": [
@@ -5133,6 +5278,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 10:42:36",
         "updated_at": "2023-07-25 10:42:36",
         "traits": [
@@ -5168,6 +5314,7 @@
         "franchise_id": 9,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 17:09:31",
         "updated_at": "2023-07-25 17:09:31",
         "traits": [
@@ -5204,6 +5351,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-22 12:50:11",
         "updated_at": "2023-04-22 12:50:11",
         "traits": [
@@ -5239,6 +5387,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 06:39:01",
         "updated_at": "2023-07-25 06:39:01",
         "traits": [
@@ -5276,6 +5425,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-17 15:03:16",
         "updated_at": "2023-01-17 15:03:16",
         "traits": [
@@ -5312,6 +5462,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-17 07:14:29",
         "updated_at": "2023-07-17 07:14:29",
         "traits": [
@@ -5348,6 +5499,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-06 14:58:46",
         "updated_at": "2023-04-06 14:58:46",
         "traits": [
@@ -5384,6 +5536,7 @@
         "franchise_id": 23,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-05 13:23:48",
         "updated_at": "2023-07-05 13:23:48",
         "traits": [
@@ -5420,6 +5573,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-17 15:03:16",
         "updated_at": "2023-01-17 15:03:16",
         "traits": [
@@ -5456,6 +5610,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 10:54:43",
         "updated_at": "2023-07-25 10:54:43",
         "traits": [
@@ -5492,6 +5647,7 @@
         "franchise_id": 9,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 17:12:05",
         "updated_at": "2023-07-25 17:12:05",
         "traits": [
@@ -5527,6 +5683,7 @@
         "franchise_id": 6,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-23 16:21:32",
         "updated_at": "2023-01-23 16:21:32",
         "traits": [
@@ -5562,6 +5719,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-02-23 23:03:44",
         "updated_at": "2023-02-23 23:03:44",
         "traits": [
@@ -5597,6 +5755,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 17:13:49",
         "updated_at": "2023-07-25 17:13:49",
         "traits": [
@@ -5632,6 +5791,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-11 16:45:33",
         "updated_at": "2023-07-11 16:45:33",
         "traits": [
@@ -5667,6 +5827,7 @@
         "franchise_id": 23,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-16 12:30:51",
         "updated_at": "2023-04-16 12:30:51",
         "traits": [
@@ -5701,6 +5862,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-15 06:06:24",
         "updated_at": "2023-07-15 06:06:24",
         "traits": [
@@ -5735,6 +5897,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-13 18:12:36",
         "updated_at": "2023-04-13 18:12:36",
         "traits": [
@@ -5770,6 +5933,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-13 18:39:02",
         "updated_at": "2023-04-13 18:39:02",
         "traits": [
@@ -5805,6 +5969,7 @@
         "franchise_id": 20,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 06:36:01",
         "updated_at": "2023-07-25 06:36:01",
         "traits": [
@@ -5839,6 +6004,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-14 20:12:52",
         "updated_at": "2023-04-14 20:12:52",
         "traits": [
@@ -5873,6 +6039,7 @@
         "franchise_id": 9,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 17:16:28",
         "updated_at": "2023-07-25 17:16:28",
         "traits": [
@@ -5907,6 +6074,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 17:18:24",
         "updated_at": "2023-07-25 17:18:24",
         "traits": [
@@ -5941,6 +6109,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 10:59:10",
         "updated_at": "2023-07-25 10:59:10",
         "traits": [
@@ -5975,6 +6144,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-18 15:54:30",
         "updated_at": "2023-07-18 15:54:30",
         "traits": [
@@ -6009,6 +6179,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 17:23:49",
         "updated_at": "2023-07-25 17:23:49",
         "traits": [
@@ -6044,6 +6215,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-22 13:29:30",
         "updated_at": "2023-04-22 13:29:30",
         "traits": [
@@ -6080,6 +6252,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-17 17:35:54",
         "updated_at": "2023-04-17 17:35:54",
         "traits": [
@@ -6117,6 +6290,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-23 16:22:03",
         "updated_at": "2023-01-23 16:22:03",
         "traits": [
@@ -6154,6 +6328,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-21 19:54:57",
         "updated_at": "2023-07-21 19:54:57",
         "traits": [
@@ -6191,6 +6366,7 @@
         "franchise_id": 9,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-05-16 16:34:49",
         "updated_at": "2023-05-16 16:34:49",
         "traits": [
@@ -6225,6 +6401,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 17:21:33",
         "updated_at": "2023-07-25 17:21:33",
         "traits": [
@@ -6261,6 +6438,7 @@
         "franchise_id": 2,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-03-13 20:07:34",
         "updated_at": "2023-03-13 20:07:34",
         "traits": [
@@ -6297,6 +6475,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-22 12:58:18",
         "updated_at": "2023-04-22 12:58:18",
         "traits": [
@@ -6332,6 +6511,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-20 19:29:32",
         "updated_at": "2023-07-20 19:29:32",
         "traits": [
@@ -6368,6 +6548,7 @@
         "franchise_id": 9,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-16 13:20:18",
         "updated_at": "2023-04-16 13:20:18",
         "traits": [
@@ -6404,6 +6585,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-13 18:44:57",
         "updated_at": "2023-04-13 18:44:57",
         "traits": [
@@ -6439,6 +6621,7 @@
         "franchise_id": 20,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-07 15:02:26",
         "updated_at": "2023-07-07 15:02:26",
         "traits": [
@@ -6474,6 +6657,7 @@
         "franchise_id": 2,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 17:27:32",
         "updated_at": "2023-07-25 17:27:32",
         "traits": [
@@ -6509,6 +6693,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-27 17:10:20",
         "updated_at": "2023-06-27 17:10:20",
         "traits": [
@@ -6545,6 +6730,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-25 22:16:13",
         "updated_at": "2023-04-25 22:16:13",
         "traits": [
@@ -6581,6 +6767,7 @@
         "franchise_id": 21,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-22 13:17:54",
         "updated_at": "2023-04-22 13:17:54",
         "traits": [
@@ -6617,6 +6804,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-06-28 18:02:00",
         "updated_at": "2023-06-28 18:02:00",
         "traits": [
@@ -6653,6 +6841,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-01-17 15:03:16",
         "updated_at": "2023-01-17 15:03:16",
         "traits": [
@@ -6689,6 +6878,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 11:04:02",
         "updated_at": "2023-07-25 11:04:02",
         "traits": [
@@ -6725,6 +6915,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 17:32:05",
         "updated_at": "2023-07-25 17:32:05",
         "traits": [
@@ -6761,6 +6952,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 17:34:33",
         "updated_at": "2023-07-25 17:34:33",
         "traits": [
@@ -6797,6 +6989,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-06 14:12:05",
         "updated_at": "2023-07-06 14:12:05",
         "traits": [
@@ -6833,6 +7026,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-03-16 17:56:19",
         "updated_at": "2023-03-16 17:56:19",
         "traits": [
@@ -6869,6 +7063,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-20 13:11:52",
         "updated_at": "2023-07-20 13:11:52",
         "traits": [
@@ -6904,6 +7099,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-15 06:10:15",
         "updated_at": "2023-07-15 06:10:15",
         "traits": [
@@ -6938,6 +7134,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-14 17:07:45",
         "updated_at": "2023-04-14 17:07:45",
         "traits": [
@@ -6972,6 +7169,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-11 21:19:51",
         "updated_at": "2023-07-11 21:19:51",
         "traits": [
@@ -7007,6 +7205,7 @@
         "franchise_id": 20,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 11:07:21",
         "updated_at": "2023-07-25 11:07:21",
         "traits": [
@@ -7041,6 +7240,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-22 13:27:37",
         "updated_at": "2023-04-22 13:27:37",
         "traits": [
@@ -7075,6 +7275,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-14 17:43:42",
         "updated_at": "2023-04-14 17:43:42",
         "traits": [
@@ -7109,6 +7310,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-04-13 18:51:09",
         "updated_at": "2023-04-13 18:51:09",
         "traits": [
@@ -7143,6 +7345,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-17 07:18:37",
         "updated_at": "2023-07-17 07:18:37",
         "traits": [
@@ -7177,6 +7380,7 @@
         "franchise_id": 2,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-07-25 17:29:34",
         "updated_at": "2023-07-25 17:29:34",
         "traits": [
@@ -7211,6 +7415,7 @@
         "franchise_id": 9,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-08-03 18:46:25",
         "updated_at": "2023-08-03 18:46:25",
         "traits": [
@@ -7248,6 +7453,7 @@
         "franchise_id": 2,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-08-03 18:55:18",
         "updated_at": "2023-08-03 18:55:18",
         "traits": [
@@ -7284,6 +7490,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-08-03 18:57:10",
         "updated_at": "2023-08-03 18:57:10",
         "traits": [
@@ -7321,6 +7528,7 @@
         "franchise_id": 19,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-08-03 18:58:44",
         "updated_at": "2023-08-03 18:58:44",
         "traits": [
@@ -7356,6 +7564,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-08-04 05:33:55",
         "updated_at": "2023-08-04 05:33:55",
         "traits": [
@@ -7391,6 +7600,7 @@
         "franchise_id": 1,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-08-04 05:33:55",
         "updated_at": "2023-08-04 05:33:55",
         "traits": [
@@ -7408,7 +7618,7 @@
         "cost": 7,
         "inkwell": 1,
         "attack": 5,
-        "defence": 7,
+        "defence": 5,
         "color": 1,
         "type": "glimmer",
         "action": "<b>Shift</b> 5 <i>(You may pay 5 ⬡ to play this on top of one of your characters named Aladdin.)</i><br />\n<mark>DARING EXPLOIT</mark> During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore.",
@@ -7426,6 +7636,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-08-03 19:00:01",
         "updated_at": "2023-08-03 19:00:01",
         "traits": [
@@ -7461,6 +7672,7 @@
         "franchise_id": 11,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-08-03 19:01:43",
         "updated_at": "2023-08-03 19:01:43",
         "traits": [
@@ -7497,6 +7709,7 @@
         "franchise_id": 5,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-08-03 19:03:22",
         "updated_at": "2023-08-03 19:03:22",
         "traits": [
@@ -7533,6 +7746,7 @@
         "franchise_id": 14,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-08-03 19:04:52",
         "updated_at": "2023-08-03 19:04:52",
         "traits": [
@@ -7569,6 +7783,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-08-03 19:06:18",
         "updated_at": "2023-08-03 19:06:18",
         "traits": [
@@ -7605,6 +7820,7 @@
         "franchise_id": 7,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2023-08-03 19:07:49",
         "updated_at": "2023-08-03 19:07:49",
         "traits": [

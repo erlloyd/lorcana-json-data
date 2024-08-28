@@ -24,6 +24,7 @@
         "franchise_id": 37,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-29 07:37:39",
         "updated_at": "2024-07-29 07:37:39",
         "traits": [
@@ -59,6 +60,7 @@
         "franchise_id": 12,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-31 00:10:58",
         "updated_at": "2024-07-31 00:10:58",
         "traits": [
@@ -94,6 +96,7 @@
         "franchise_id": 22,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-29 07:43:24",
         "updated_at": "2024-07-29 07:43:24",
         "traits": [
@@ -130,6 +133,7 @@
         "franchise_id": 37,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 15:33:25",
         "updated_at": "2024-08-01 15:33:25",
         "traits": [
@@ -165,6 +169,7 @@
         "franchise_id": 37,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 15:00:16",
         "updated_at": "2024-08-01 15:00:16",
         "traits": [
@@ -200,6 +205,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:34:11",
         "updated_at": "2024-08-02 01:34:11",
         "traits": [
@@ -237,6 +243,7 @@
         "franchise_id": 37,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:35:20",
         "updated_at": "2024-08-02 01:35:20",
         "traits": [
@@ -272,6 +279,7 @@
         "franchise_id": 2,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 15:44:57",
         "updated_at": "2024-08-01 15:44:57",
         "traits": [
@@ -307,6 +315,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:36:21",
         "updated_at": "2024-08-02 01:36:21",
         "traits": [
@@ -342,8 +351,9 @@
         "image": "https://images.lorcania.com/cards/ss/10_en_fixit_felix_jr-716.webp",
         "blurhash": "",
         "franchise_id": 30,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-08-01 03:03:30",
         "updated_at": "2024-08-01 03:03:30",
         "traits": [
@@ -379,6 +389,7 @@
         "franchise_id": 29,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-29 07:47:10",
         "updated_at": "2024-07-29 07:47:10",
         "traits": [
@@ -412,8 +423,9 @@
         "image": "https://images.lorcania.com/cards/ss/12_en_fixit_felix_jr-716.webp",
         "blurhash": "",
         "franchise_id": 30,
-        "final": 0,
+        "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-08-01 02:53:03",
         "updated_at": "2024-08-01 02:53:03",
         "traits": [
@@ -449,6 +461,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 15:34:15",
         "updated_at": "2024-08-01 15:34:15",
         "traits": [
@@ -484,6 +497,7 @@
         "franchise_id": 36,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-29 18:33:42",
         "updated_at": "2024-07-29 18:33:42",
         "traits": [
@@ -520,6 +534,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 00:39:42",
         "updated_at": "2024-08-02 00:39:42",
         "traits": [
@@ -555,6 +570,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 00:56:33",
         "updated_at": "2024-07-31 00:56:33",
         "traits": [
@@ -588,8 +604,9 @@
         "image": "https://images.lorcania.com/cards/ss/17_en_fixit_felix_jr-716.webp",
         "blurhash": "",
         "franchise_id": 30,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-08-01 02:51:36",
         "updated_at": "2024-08-01 02:51:36",
         "traits": [
@@ -625,6 +642,7 @@
         "franchise_id": 11,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 00:42:52",
         "updated_at": "2024-08-02 00:42:52",
         "traits": [
@@ -661,6 +679,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 03:09:56",
         "updated_at": "2024-08-01 03:09:56",
         "traits": [
@@ -698,6 +717,7 @@
         "franchise_id": 6,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-29 03:31:55",
         "updated_at": "2024-07-29 03:31:55",
         "traits": [
@@ -733,6 +753,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:40:45",
         "updated_at": "2024-08-02 01:40:45",
         "traits": [
@@ -746,15 +767,15 @@
     {
         "id": 927,
         "name": "Maid Marian",
-        "title": "Mistress of the Range",
+        "title": "Lady of the Lists",
         "cost": 6,
         "inkwell": 1,
         "attack": 4,
         "defence": 5,
         "color": 4,
         "type": "glimmer",
-        "action": "<mark>IF THE LADY WANTS IT</mark> When you play this character, opposing character of your choice gets -5 ※ until the start of your next turn.",
-        "flavour": "“And who might you be, my noble Knight and champion?”",
+        "action": "<mark>IF IT PLEASES THE LADY</mark> (When you play this character, chosen opposing character gets -5 ※ until the start of your next turn.)",
+        "flavour": "“And who might you be, my knight and champion?”",
         "separator": "pen",
         "stars": 2,
         "illustrator": "Jenna Grey",
@@ -768,6 +789,7 @@
         "franchise_id": 6,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-29 18:39:17",
         "updated_at": "2024-07-29 18:39:17",
         "traits": [
@@ -803,6 +825,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:41:48",
         "updated_at": "2024-08-02 01:41:48",
         "traits": [
@@ -838,6 +861,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 00:37:53",
         "updated_at": "2024-08-02 00:37:53",
         "traits": [
@@ -873,6 +897,7 @@
         "franchise_id": 29,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:42:44",
         "updated_at": "2024-08-02 01:42:44",
         "traits": [
@@ -908,6 +933,7 @@
         "franchise_id": 3,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-29 07:57:29",
         "updated_at": "2024-07-29 07:57:29",
         "traits": [
@@ -942,6 +968,7 @@
         "franchise_id": 13,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-29 07:50:54",
         "updated_at": "2024-07-29 07:50:54",
         "traits": [
@@ -976,6 +1003,7 @@
         "franchise_id": 10,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-29 07:54:12",
         "updated_at": "2024-07-29 07:54:12",
         "traits": [
@@ -1010,6 +1038,7 @@
         "franchise_id": 18,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-08-02 01:44:31",
         "updated_at": "2024-08-02 01:44:31",
         "traits": [
@@ -1044,6 +1073,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:45:25",
         "updated_at": "2024-08-02 01:45:25",
         "traits": [
@@ -1078,6 +1108,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:46:20",
         "updated_at": "2024-08-02 01:46:20",
         "traits": [
@@ -1112,6 +1143,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 02:27:21",
         "updated_at": "2024-08-02 02:27:21",
         "traits": [
@@ -1146,6 +1178,7 @@
         "franchise_id": 13,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 02:31:46",
         "updated_at": "2024-08-02 02:31:46",
         "traits": [
@@ -1180,6 +1213,7 @@
         "franchise_id": 28,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 02:43:26",
         "updated_at": "2024-08-02 02:43:26",
         "traits": [
@@ -1212,8 +1246,9 @@
         "image": "https://images.lorcania.com/cards/ss/35_en_maleficent-716.webp",
         "blurhash": "",
         "franchise_id": 5,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-08-01 16:12:28",
         "updated_at": "2024-08-01 16:12:28",
         "traits": [
@@ -1251,6 +1286,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 02:47:25",
         "updated_at": "2024-08-02 02:47:25",
         "traits": [
@@ -1286,6 +1322,7 @@
         "franchise_id": 14,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 00:55:11",
         "updated_at": "2024-07-31 00:55:11",
         "traits": [
@@ -1321,6 +1358,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 19:25:35",
         "updated_at": "2024-08-01 19:25:35",
         "traits": [
@@ -1357,6 +1395,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-30 01:20:36",
         "updated_at": "2024-07-30 01:20:36",
         "traits": [
@@ -1392,6 +1431,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 00:39:35",
         "updated_at": "2024-07-31 00:39:35",
         "traits": [
@@ -1427,6 +1467,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 01:07:54",
         "updated_at": "2024-07-31 01:07:54",
         "traits": [
@@ -1462,6 +1503,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 03:05:59",
         "updated_at": "2024-08-01 03:05:59",
         "traits": [
@@ -1497,6 +1539,7 @@
         "franchise_id": 16,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 16:32:48",
         "updated_at": "2024-08-03 16:32:48",
         "traits": [
@@ -1532,6 +1575,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 14:59:39",
         "updated_at": "2024-08-01 14:59:39",
         "traits": [
@@ -1568,6 +1612,7 @@
         "franchise_id": 36,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 14:59:39",
         "updated_at": "2024-08-01 14:59:39",
         "traits": [
@@ -1604,6 +1649,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-30 01:16:04",
         "updated_at": "2024-07-30 01:16:04",
         "traits": [
@@ -1641,6 +1687,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-30 01:18:16",
         "updated_at": "2024-07-30 01:18:16",
         "traits": [
@@ -1676,6 +1723,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 01:11:06",
         "updated_at": "2024-07-31 01:11:06",
         "traits": [
@@ -1693,7 +1741,7 @@
         "name": "Genie",
         "title": "Main Attraction",
         "cost": 7,
-        "inkwell": 1,
+        "inkwell": 0,
         "attack": 5,
         "defence": 5,
         "color": 5,
@@ -1711,8 +1759,9 @@
         "image": "https://images.lorcania.com/cards/ss/49_en_genie-716.webp",
         "blurhash": "",
         "franchise_id": 10,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-08-01 03:11:07",
         "updated_at": "2024-08-01 03:11:07",
         "traits": [
@@ -1748,6 +1797,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 00:51:47",
         "updated_at": "2024-08-02 00:51:47",
         "traits": [
@@ -1783,6 +1833,7 @@
         "franchise_id": 5,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 16:15:38",
         "updated_at": "2024-08-01 16:15:38",
         "traits": [
@@ -1819,6 +1870,7 @@
         "franchise_id": 26,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 00:45:05",
         "updated_at": "2024-08-02 00:45:05",
         "traits": [
@@ -1853,6 +1905,7 @@
         "franchise_id": 33,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 16:09:37",
         "updated_at": "2024-08-01 16:09:37",
         "traits": [
@@ -1889,6 +1942,7 @@
         "franchise_id": 5,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 16:14:36",
         "updated_at": "2024-08-01 16:14:36",
         "traits": [
@@ -1925,6 +1979,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 16:34:02",
         "updated_at": "2024-08-03 16:34:02",
         "traits": [
@@ -1941,7 +1996,7 @@
         "name": "Anna",
         "title": "Eager Acolyte",
         "cost": 3,
-        "inkwell": 1,
+        "inkwell": 0,
         "attack": 1,
         "defence": 3,
         "color": 5,
@@ -1961,6 +2016,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-30 01:13:57",
         "updated_at": "2024-07-30 01:13:57",
         "traits": [
@@ -1997,6 +2053,7 @@
         "franchise_id": 16,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 15:32:22",
         "updated_at": "2024-08-01 15:32:22",
         "traits": [
@@ -2033,6 +2090,7 @@
         "franchise_id": 36,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 00:41:17",
         "updated_at": "2024-07-31 00:41:17",
         "traits": [
@@ -2069,6 +2127,7 @@
         "franchise_id": 10,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 16:35:44",
         "updated_at": "2024-08-03 16:35:44",
         "traits": [
@@ -2103,6 +2162,7 @@
         "franchise_id": 10,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 16:37:57",
         "updated_at": "2024-08-03 16:37:57",
         "traits": [
@@ -2137,6 +2197,7 @@
         "franchise_id": 11,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 16:42:16",
         "updated_at": "2024-08-03 16:42:16",
         "traits": [
@@ -2172,6 +2233,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 16:43:43",
         "updated_at": "2024-08-03 16:43:43",
         "traits": [
@@ -2206,6 +2268,7 @@
         "franchise_id": 10,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 16:45:22",
         "updated_at": "2024-08-03 16:45:22",
         "traits": [
@@ -2240,6 +2303,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 16:46:40",
         "updated_at": "2024-08-03 16:46:40",
         "traits": [
@@ -2274,6 +2338,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 16:47:40",
         "updated_at": "2024-08-03 16:47:40",
         "traits": [
@@ -2308,6 +2373,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 16:49:43",
         "updated_at": "2024-08-03 16:49:43",
         "traits": [
@@ -2342,6 +2408,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 16:51:06",
         "updated_at": "2024-08-03 16:51:06",
         "traits": [
@@ -2376,6 +2443,7 @@
         "franchise_id": 14,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 16:52:14",
         "updated_at": "2024-08-03 16:52:14",
         "traits": [
@@ -2410,6 +2478,7 @@
         "franchise_id": 6,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 22:38:28",
         "updated_at": "2024-08-03 22:38:28",
         "traits": [
@@ -2445,6 +2514,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 22:40:01",
         "updated_at": "2024-08-03 22:40:01",
         "traits": [
@@ -2481,6 +2551,7 @@
         "franchise_id": 6,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 15:46:39",
         "updated_at": "2024-08-01 15:46:39",
         "traits": [
@@ -2516,6 +2587,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-03 22:42:30",
         "updated_at": "2024-08-03 22:42:30",
         "traits": [
@@ -2551,6 +2623,7 @@
         "franchise_id": 13,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:25:34",
         "updated_at": "2024-08-04 01:25:34",
         "traits": [
@@ -2583,8 +2656,9 @@
         "image": "https://images.lorcania.com/cards/ss/74_en_ed-716.webp",
         "blurhash": "",
         "franchise_id": 12,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-31 01:09:55",
         "updated_at": "2024-07-31 01:09:55",
         "traits": [
@@ -2621,6 +2695,7 @@
         "franchise_id": 5,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 03:04:38",
         "updated_at": "2024-08-01 03:04:38",
         "traits": [
@@ -2657,6 +2732,7 @@
         "franchise_id": 5,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 19:26:34",
         "updated_at": "2024-08-01 19:26:34",
         "traits": [
@@ -2693,6 +2769,7 @@
         "franchise_id": 6,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:26:56",
         "updated_at": "2024-08-04 01:26:56",
         "traits": [
@@ -2728,6 +2805,7 @@
         "franchise_id": 5,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 01:12:41",
         "updated_at": "2024-07-31 01:12:41",
         "traits": [
@@ -2764,6 +2842,7 @@
         "franchise_id": 10,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 14:29:23",
         "updated_at": "2024-08-01 14:29:23",
         "traits": [
@@ -2797,8 +2876,9 @@
         "image": "https://images.lorcania.com/cards/ss/80_en_banzai-716.webp",
         "blurhash": "",
         "franchise_id": 12,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-30 01:30:55",
         "updated_at": "2024-07-30 01:30:55",
         "traits": [
@@ -2835,6 +2915,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 01:08:53",
         "updated_at": "2024-07-31 01:08:53",
         "traits": [
@@ -2871,6 +2952,7 @@
         "franchise_id": 24,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 03:53:09",
         "updated_at": "2024-08-05 03:53:09",
         "traits": [
@@ -2908,6 +2990,7 @@
         "franchise_id": 5,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:09:20",
         "updated_at": "2024-08-02 01:09:20",
         "traits": [
@@ -2942,8 +3025,9 @@
         "image": "https://images.lorcania.com/cards/ss/84_en_clarabelle-716.webp",
         "blurhash": "",
         "franchise_id": 1,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-31 00:53:07",
         "updated_at": "2024-07-31 00:53:07",
         "traits": [
@@ -2979,6 +3063,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-30 01:10:19",
         "updated_at": "2024-07-30 01:10:19",
         "traits": [
@@ -3013,8 +3098,9 @@
         "image": "https://images.lorcania.com/cards/ss/86_en_clarabelle-716.webp",
         "blurhash": "",
         "franchise_id": 1,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-31 00:50:22",
         "updated_at": "2024-07-31 00:50:22",
         "traits": [
@@ -3050,6 +3136,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-30 01:28:48",
         "updated_at": "2024-07-30 01:28:48",
         "traits": [
@@ -3071,7 +3158,7 @@
         "defence": 5,
         "color": 3,
         "type": "glimmer",
-        "action": "<b>Shift</b> 3 <i>(You may pay 3 ⬡ to play this on top of one of your characters named Robin Hood.)</i><br><mark>CLEVER PLAN</mark> This character gets +1 ◆ for each opposing damaged character in play.</i> </b>",
+        "action": "<b>Shift</b> 3 <i>(You may pay 3 ⬡ to play this on top of one of your characters named Robin Hood.)</i><br><mark>CLEVER PLAN</mark> This character gets +1 ◆ for each opposing damaged character in play.",
         "flavour": null,
         "separator": null,
         "stars": 1,
@@ -3086,6 +3173,7 @@
         "franchise_id": 6,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:28:19",
         "updated_at": "2024-08-04 01:28:19",
         "traits": [
@@ -3121,6 +3209,7 @@
         "franchise_id": 13,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 00:45:53",
         "updated_at": "2024-08-02 00:45:53",
         "traits": [
@@ -3156,6 +3245,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 00:51:52",
         "updated_at": "2024-07-31 00:51:52",
         "traits": [
@@ -3191,6 +3281,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:30:26",
         "updated_at": "2024-08-04 01:30:26",
         "traits": [
@@ -3227,6 +3318,7 @@
         "franchise_id": 13,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 00:46:51",
         "updated_at": "2024-08-02 00:46:51",
         "traits": [
@@ -3262,6 +3354,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:32:50",
         "updated_at": "2024-08-04 01:32:50",
         "traits": [
@@ -3297,6 +3390,7 @@
         "franchise_id": 27,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:34:16",
         "updated_at": "2024-08-04 01:34:16",
         "traits": [
@@ -3331,6 +3425,7 @@
         "franchise_id": 29,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:36:28",
         "updated_at": "2024-08-04 01:36:28",
         "traits": [
@@ -3365,6 +3460,7 @@
         "franchise_id": 11,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:37:49",
         "updated_at": "2024-08-04 01:37:49",
         "traits": [
@@ -3400,6 +3496,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:39:10",
         "updated_at": "2024-08-04 01:39:10",
         "traits": [
@@ -3434,6 +3531,7 @@
         "franchise_id": 6,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:40:12",
         "updated_at": "2024-08-04 01:40:12",
         "traits": [
@@ -3453,7 +3551,7 @@
         "defence": null,
         "color": 3,
         "type": "item",
-        "action": "<mark>EXTRACT OF EMERALD</mark> 2 ⬡, Banish this item – Your characters gain <b>Ward<b> until the start of your next turn. <i>(Opponents can't choose them except to challenge.)</i>",
+        "action": "<mark>EXTRACT OF EMERALD</mark> 2 ⬡, Banish this item – Your characters gain <b>Ward</b> until the start of your next turn. <i>(Opponents can't choose them except to challenge.)</i>",
         "flavour": null,
         "separator": null,
         "stars": 0,
@@ -3468,6 +3566,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:42:11",
         "updated_at": "2024-08-04 01:42:11",
         "traits": [
@@ -3502,6 +3601,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:43:49",
         "updated_at": "2024-08-04 01:43:49",
         "traits": [
@@ -3536,6 +3636,7 @@
         "franchise_id": 6,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:46:19",
         "updated_at": "2024-08-04 01:46:19",
         "traits": [
@@ -3570,6 +3671,7 @@
         "franchise_id": 20,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:48:22",
         "updated_at": "2024-08-04 01:48:22",
         "traits": [
@@ -3604,6 +3706,7 @@
         "franchise_id": 17,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:16:16",
         "updated_at": "2024-08-04 02:16:16",
         "traits": [
@@ -3640,6 +3743,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:16:59",
         "updated_at": "2024-08-04 02:16:59",
         "traits": [
@@ -3673,8 +3777,9 @@
         "image": "https://images.lorcania.com/cards/ss/105_en_maximus-716.webp",
         "blurhash": "",
         "franchise_id": 13,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-08-01 19:17:42",
         "updated_at": "2024-08-01 19:17:42",
         "traits": [
@@ -3710,6 +3815,7 @@
         "franchise_id": 30,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-08-04 02:17:42",
         "updated_at": "2024-08-04 02:17:42",
         "traits": [
@@ -3746,6 +3852,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 01:04:39",
         "updated_at": "2024-07-31 01:04:39",
         "traits": [
@@ -3782,6 +3889,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:18:57",
         "updated_at": "2024-08-04 02:18:57",
         "traits": [
@@ -3818,6 +3926,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:19:40",
         "updated_at": "2024-08-04 02:19:40",
         "traits": [
@@ -3853,6 +3962,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:20:32",
         "updated_at": "2024-08-04 02:20:32",
         "traits": [
@@ -3889,6 +3999,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 00:57:58",
         "updated_at": "2024-07-31 00:57:58",
         "traits": [
@@ -3924,6 +4035,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 19:27:49",
         "updated_at": "2024-08-01 19:27:49",
         "traits": [
@@ -3959,6 +4071,7 @@
         "franchise_id": 27,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:54:53",
         "updated_at": "2024-08-04 01:54:53",
         "traits": [
@@ -3994,6 +4107,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:56:09",
         "updated_at": "2024-08-04 01:56:09",
         "traits": [
@@ -4030,6 +4144,7 @@
         "franchise_id": 37,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 00:59:20",
         "updated_at": "2024-07-31 00:59:20",
         "traits": [
@@ -4064,6 +4179,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:03:57",
         "updated_at": "2024-08-02 01:03:57",
         "traits": [
@@ -4099,6 +4215,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:57:37",
         "updated_at": "2024-08-04 01:57:37",
         "traits": [
@@ -4123,7 +4240,7 @@
         "action": "<mark>MY GREATEST PERFORMANCE</mark> Whenever this character quests, look at the top 4 cards of your deck. You may reveal an action card with cost 6 or less and play it for free. Put the rest in your discard.",
         "flavour": null,
         "separator": null,
-        "stars": 4,
+        "stars": 2,
         "illustrator": "Federico Maria Cugliari",
         "card_set_id": 7,
         "language": "EN",
@@ -4135,6 +4252,7 @@
         "franchise_id": 6,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:59:15",
         "updated_at": "2024-08-04 01:59:15",
         "traits": [
@@ -4150,7 +4268,7 @@
         "name": "Gaston",
         "title": "Pure Paragon",
         "cost": 9,
-        "inkwell": 1,
+        "inkwell": 0,
         "attack": 10,
         "defence": 6,
         "color": 1,
@@ -4170,6 +4288,7 @@
         "franchise_id": 14,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 03:08:41",
         "updated_at": "2024-08-01 03:08:41",
         "traits": [
@@ -4205,6 +4324,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:03:12",
         "updated_at": "2024-08-02 01:03:12",
         "traits": [
@@ -4240,6 +4360,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-30 01:25:38",
         "updated_at": "2024-07-30 01:25:38",
         "traits": [
@@ -4275,6 +4396,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 01:01:51",
         "updated_at": "2024-07-31 01:01:51",
         "traits": [
@@ -4295,7 +4417,7 @@
         "defence": 5,
         "color": 1,
         "type": "glimmer",
-        "action": "<b>Shift</b> 4 <i>(You may pay 4 ⬡ to play this on top of one of your characters named Ratigan.)</i><br><b>Evasive</b> <i>(Only characters with Evasive can challenge this character.)</i>\n<br><mark>DELIGHTFULLY WICKED</mark> Your damaged characters get -2 ※.",
+        "action": "<b>Shift</b> 4 <i>(You may pay 4 ⬡ to play this on top of one of your characters named Ratigan.)</i><br><b>Evasive</b> <i>(Only characters with Evasive can challenge this character.)</i>\n<br><mark>DELIGHTFULLY WICKED</mark> Your damaged characters get +2 ※.",
         "flavour": null,
         "separator": null,
         "stars": 3,
@@ -4310,6 +4432,7 @@
         "franchise_id": 27,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:00:12",
         "updated_at": "2024-08-04 02:00:12",
         "traits": [
@@ -4345,6 +4468,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:02:05",
         "updated_at": "2024-08-04 02:02:05",
         "traits": [
@@ -4382,6 +4506,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:03:34",
         "updated_at": "2024-08-04 02:03:34",
         "traits": [
@@ -4418,6 +4543,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 00:38:46",
         "updated_at": "2024-08-02 00:38:46",
         "traits": [
@@ -4434,7 +4560,7 @@
         "title": null,
         "cost": 1,
         "inkwell": 1,
-        "attack": 0,
+        "attack": null,
         "defence": null,
         "color": 1,
         "type": "action",
@@ -4453,6 +4579,7 @@
         "franchise_id": 7,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:04:37",
         "updated_at": "2024-08-04 02:04:37",
         "traits": [
@@ -4475,7 +4602,7 @@
         "action": "Ready chosen character of yours. They can’t quest for the rest of this turn. If a Villain character is chosen, gain 1 lore.",
         "flavour": null,
         "separator": null,
-        "stars": 1,
+        "stars": 0,
         "illustrator": "Adam Bunch",
         "card_set_id": 7,
         "language": "EN",
@@ -4487,6 +4614,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:06:12",
         "updated_at": "2024-08-04 02:06:12",
         "traits": [
@@ -4506,7 +4634,7 @@
         "defence": null,
         "color": 1,
         "type": "song",
-        "action": "<i>(A character with cost 7 or more can \n ↷ to sing this song for free.)</i><br>Ready all your characters. They can’t quest for the rest of this turn.",
+        "action": "<i>(A character with cost 7 or more can ↷ to sing this song for free.)</i><br>Ready all your characters. They can’t quest for the rest of this turn.",
         "flavour": "Let’s call it a night",
         "separator": "clef",
         "stars": 0,
@@ -4521,6 +4649,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:07:17",
         "updated_at": "2024-08-04 02:07:17",
         "traits": [
@@ -4556,6 +4685,7 @@
         "franchise_id": 9,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:10:06",
         "updated_at": "2024-08-04 02:10:06",
         "traits": [
@@ -4590,6 +4720,7 @@
         "franchise_id": 14,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:11:20",
         "updated_at": "2024-08-04 02:11:20",
         "traits": [
@@ -4609,7 +4740,7 @@
         "defence": null,
         "color": 1,
         "type": "item",
-        "action": "<mark>VILE CONCOCTION</mark> 1 ⬡ Banish this item – Chosen character gets +3 ※ this turn. If a Villain character is chosen, they get +4 ※ instead.",
+        "action": "<mark>VILE CONCOCTION</mark> 1 ⬡, Banish this item – Chosen character gets +3 ※ this turn. If a Villain character is chosen, they get +4 ※ instead.",
         "flavour": null,
         "separator": null,
         "stars": 0,
@@ -4624,6 +4755,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:12:36",
         "updated_at": "2024-08-04 02:12:36",
         "traits": [
@@ -4658,6 +4790,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:13:56",
         "updated_at": "2024-08-04 02:13:56",
         "traits": [
@@ -4692,6 +4825,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 02:14:54",
         "updated_at": "2024-08-04 02:14:54",
         "traits": [
@@ -4726,6 +4860,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:51:53",
         "updated_at": "2024-08-04 01:51:53",
         "traits": [
@@ -4760,6 +4895,7 @@
         "franchise_id": 27,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 01:53:33",
         "updated_at": "2024-08-04 01:53:33",
         "traits": [
@@ -4792,8 +4928,9 @@
         "image": "https://images.lorcania.com/cards/ss/137_en_king_candy-716.webp",
         "blurhash": "",
         "franchise_id": 30,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-08-01 15:01:09",
         "updated_at": "2024-08-01 15:01:09",
         "traits": [
@@ -4830,6 +4967,7 @@
         "franchise_id": 20,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 00:47:21",
         "updated_at": "2024-07-31 00:47:21",
         "traits": [
@@ -4865,6 +5003,7 @@
         "franchise_id": 15,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:07:55",
         "updated_at": "2024-08-04 17:07:55",
         "traits": [
@@ -4880,7 +5019,7 @@
     {
         "id": 1093,
         "name": "Scrooge McDuck",
-        "title": "Aficionado of Antiquities",
+        "title": "Afficionado of Antiquities",
         "cost": 4,
         "inkwell": 0,
         "attack": 5,
@@ -4900,8 +5039,9 @@
         "image": "https://images.lorcania.com/cards/ss/140_en_scrooge_mcduck-716.webp",
         "blurhash": "",
         "franchise_id": 33,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-08-04 17:08:56",
         "updated_at": "2024-08-04 17:08:56",
         "traits": [
@@ -4937,6 +5077,7 @@
         "franchise_id": 6,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:07:08",
         "updated_at": "2024-08-02 01:07:08",
         "traits": [
@@ -4971,8 +5112,9 @@
         "image": "https://images.lorcania.com/cards/ss/142_en_merlin-716.webp",
         "blurhash": "",
         "franchise_id": 23,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-08-01 19:20:29",
         "updated_at": "2024-08-01 19:20:29",
         "traits": [
@@ -5009,6 +5151,7 @@
         "franchise_id": 20,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:00:57",
         "updated_at": "2024-08-02 01:00:57",
         "traits": [
@@ -5044,6 +5187,7 @@
         "franchise_id": 15,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:09:51",
         "updated_at": "2024-08-04 17:09:51",
         "traits": [
@@ -5081,6 +5225,7 @@
         "franchise_id": 6,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:11:29",
         "updated_at": "2024-08-04 17:11:29",
         "traits": [
@@ -5116,6 +5261,7 @@
         "franchise_id": 20,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 00:48:37",
         "updated_at": "2024-07-31 00:48:37",
         "traits": [
@@ -5151,6 +5297,7 @@
         "franchise_id": 6,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:05:54",
         "updated_at": "2024-08-02 01:05:54",
         "traits": [
@@ -5187,6 +5334,7 @@
         "franchise_id": 15,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:13:36",
         "updated_at": "2024-08-04 17:13:36",
         "traits": [
@@ -5224,6 +5372,7 @@
         "franchise_id": 20,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 15:43:42",
         "updated_at": "2024-08-01 15:43:42",
         "traits": [
@@ -5259,6 +5408,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 00:48:22",
         "updated_at": "2024-08-02 00:48:22",
         "traits": [
@@ -5295,6 +5445,7 @@
         "franchise_id": 33,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 15:48:46",
         "updated_at": "2024-08-01 15:48:46",
         "traits": [
@@ -5330,6 +5481,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 00:41:27",
         "updated_at": "2024-08-02 00:41:27",
         "traits": [
@@ -5364,8 +5516,9 @@
         "image": "https://images.lorcania.com/cards/ss/153_en_basil-716.webp",
         "blurhash": "",
         "franchise_id": 27,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-07-30 01:34:38",
         "updated_at": "2024-07-30 01:34:38",
         "traits": [
@@ -5400,8 +5553,9 @@
         "image": "https://images.lorcania.com/cards/ss/154_en_king_candy-716.webp",
         "blurhash": "",
         "franchise_id": 30,
-        "final": 0,
-        "spoiler": 1,
+        "final": 1,
+        "spoiler": 0,
+        "published": 1,
         "created_at": "2024-08-01 15:30:42",
         "updated_at": "2024-08-01 15:30:42",
         "traits": [
@@ -5438,6 +5592,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 01:03:19",
         "updated_at": "2024-07-31 01:03:19",
         "traits": [
@@ -5474,6 +5629,7 @@
         "franchise_id": 37,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:14:59",
         "updated_at": "2024-08-04 17:14:59",
         "traits": [
@@ -5509,6 +5665,7 @@
         "franchise_id": 20,
         "final": 1,
         "spoiler": 0,
+        "published": 1,
         "created_at": "2024-08-04 17:15:46",
         "updated_at": "2024-08-04 17:15:46",
         "traits": [
@@ -5544,6 +5701,7 @@
         "franchise_id": 14,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-30 01:36:14",
         "updated_at": "2024-07-30 01:36:14",
         "traits": [
@@ -5580,6 +5738,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 19:23:27",
         "updated_at": "2024-08-01 19:23:27",
         "traits": [
@@ -5616,6 +5775,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:16:38",
         "updated_at": "2024-08-04 17:16:38",
         "traits": [
@@ -5650,6 +5810,7 @@
         "franchise_id": 6,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:18:17",
         "updated_at": "2024-08-04 17:18:17",
         "traits": [
@@ -5684,6 +5845,7 @@
         "franchise_id": 14,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:19:24",
         "updated_at": "2024-08-04 17:19:24",
         "traits": [
@@ -5719,6 +5881,7 @@
         "franchise_id": 5,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:21:23",
         "updated_at": "2024-08-04 17:21:23",
         "traits": [
@@ -5753,6 +5916,7 @@
         "franchise_id": 20,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:22:46",
         "updated_at": "2024-08-04 17:22:46",
         "traits": [
@@ -5787,6 +5951,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:24:54",
         "updated_at": "2024-08-04 17:24:54",
         "traits": [
@@ -5821,6 +5986,7 @@
         "franchise_id": 27,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:26:26",
         "updated_at": "2024-08-04 17:26:26",
         "traits": [],
@@ -5853,6 +6019,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:27:54",
         "updated_at": "2024-08-04 17:27:54",
         "traits": [
@@ -5887,6 +6054,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:29:04",
         "updated_at": "2024-08-04 17:29:04",
         "traits": [
@@ -5921,6 +6089,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:31:00",
         "updated_at": "2024-08-04 17:31:00",
         "traits": [
@@ -5955,6 +6124,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-04 17:32:35",
         "updated_at": "2024-08-04 17:32:35",
         "traits": [
@@ -5989,6 +6159,7 @@
         "franchise_id": 2,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 16:10:31",
         "updated_at": "2024-08-01 16:10:31",
         "traits": [
@@ -6002,7 +6173,7 @@
     },
     {
         "id": 980,
-        "name": "Jarar",
+        "name": "Jafar",
         "title": "Tyrannical Hypnotist",
         "cost": 6,
         "inkwell": 1,
@@ -6025,6 +6196,7 @@
         "franchise_id": 10,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 14:30:39",
         "updated_at": "2024-08-01 14:30:39",
         "traits": [
@@ -6061,6 +6233,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 01:26:52",
         "updated_at": "2024-08-05 01:26:52",
         "traits": [
@@ -6097,6 +6270,7 @@
         "franchise_id": 20,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 01:27:45",
         "updated_at": "2024-08-05 01:27:45",
         "traits": [
@@ -6131,6 +6305,7 @@
         "franchise_id": 20,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 01:28:32",
         "updated_at": "2024-08-05 01:28:32",
         "traits": [
@@ -6165,6 +6340,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 19:28:57",
         "updated_at": "2024-08-01 19:28:57",
         "traits": [
@@ -6200,6 +6376,7 @@
         "franchise_id": 15,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 01:30:02",
         "updated_at": "2024-08-05 01:30:02",
         "traits": [
@@ -6237,6 +6414,7 @@
         "franchise_id": 20,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 15:42:37",
         "updated_at": "2024-08-01 15:42:37",
         "traits": [
@@ -6272,6 +6450,7 @@
         "franchise_id": 11,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 03:16:43",
         "updated_at": "2024-08-01 03:16:43",
         "traits": [
@@ -6307,6 +6486,7 @@
         "franchise_id": 15,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 01:31:04",
         "updated_at": "2024-08-05 01:31:04",
         "traits": [
@@ -6344,6 +6524,7 @@
         "franchise_id": 15,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 01:06:52",
         "updated_at": "2024-07-31 01:06:52",
         "traits": [
@@ -6381,6 +6562,7 @@
         "franchise_id": 25,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 00:49:48",
         "updated_at": "2024-08-02 00:49:48",
         "traits": [
@@ -6417,6 +6599,7 @@
         "franchise_id": 15,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 01:32:26",
         "updated_at": "2024-08-05 01:32:26",
         "traits": [
@@ -6454,6 +6637,7 @@
         "franchise_id": 20,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 01:33:36",
         "updated_at": "2024-08-05 01:33:36",
         "traits": [
@@ -6490,6 +6674,7 @@
         "franchise_id": 20,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 15:40:46",
         "updated_at": "2024-08-01 15:40:46",
         "traits": [
@@ -6526,6 +6711,7 @@
         "franchise_id": 15,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 03:13:25",
         "updated_at": "2024-08-01 03:13:25",
         "traits": [
@@ -6563,6 +6749,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:04:50",
         "updated_at": "2024-08-02 01:04:50",
         "traits": [
@@ -6598,6 +6785,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 01:34:50",
         "updated_at": "2024-08-05 01:34:50",
         "traits": [
@@ -6633,6 +6821,7 @@
         "franchise_id": 15,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-30 01:32:17",
         "updated_at": "2024-07-30 01:32:17",
         "traits": [
@@ -6670,6 +6859,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-30 01:27:10",
         "updated_at": "2024-07-30 01:27:10",
         "traits": [
@@ -6705,6 +6895,7 @@
         "franchise_id": 15,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-01 03:15:04",
         "updated_at": "2024-08-01 03:15:04",
         "traits": [
@@ -6742,6 +6933,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 01:36:12",
         "updated_at": "2024-08-05 01:36:12",
         "traits": [
@@ -6778,6 +6970,7 @@
         "franchise_id": 15,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-31 01:00:25",
         "updated_at": "2024-07-31 01:00:25",
         "traits": [
@@ -6815,6 +7008,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-07-30 01:22:57",
         "updated_at": "2024-07-30 01:22:57",
         "traits": [
@@ -6851,6 +7045,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-02 01:02:09",
         "updated_at": "2024-08-02 01:02:09",
         "traits": [
@@ -6886,6 +7081,7 @@
         "franchise_id": 7,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 01:37:32",
         "updated_at": "2024-08-05 01:37:32",
         "traits": [
@@ -6920,6 +7116,7 @@
         "franchise_id": 13,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 03:41:58",
         "updated_at": "2024-08-05 03:41:58",
         "traits": [
@@ -6955,6 +7152,7 @@
         "franchise_id": 33,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 03:43:22",
         "updated_at": "2024-08-05 03:43:22",
         "traits": [
@@ -6989,6 +7187,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 03:44:36",
         "updated_at": "2024-08-05 03:44:36",
         "traits": [
@@ -7023,6 +7222,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 03:46:47",
         "updated_at": "2024-08-05 03:46:47",
         "traits": [
@@ -7057,6 +7257,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 03:48:10",
         "updated_at": "2024-08-05 03:48:10",
         "traits": [
@@ -7091,6 +7292,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 03:49:45",
         "updated_at": "2024-08-05 03:49:45",
         "traits": [
@@ -7110,7 +7312,7 @@
         "defence": 7,
         "color": 6,
         "type": "location",
-        "action": "<mark>THERE'S NO ONE I'D RATHER BE THAN ME</mark> Villain ↷, 3 ⬡ - Play a character with the same name as this character for free\" while here.",
+        "action": "<mark>THERE'S NO ONE I'D RATHER BE THAN ME</mark> Villain characters gain \"↷, 3 ⬡ - Play a character with the same name as this character for free\" while here.",
         "flavour": null,
         "separator": null,
         "stars": 1,
@@ -7125,6 +7327,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 03:53:09",
         "updated_at": "2024-08-05 03:53:09",
         "traits": [
@@ -7140,7 +7343,7 @@
         "title": "Secure Fortress",
         "cost": 2,
         "inkwell": 1,
-        "attack": 1,
+        "attack": 2,
         "defence": 6,
         "color": 6,
         "type": "location",
@@ -7159,6 +7362,7 @@
         "franchise_id": 15,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 03:51:36",
         "updated_at": "2024-08-05 03:51:36",
         "traits": [
@@ -7193,6 +7397,7 @@
         "franchise_id": 22,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 03:59:11",
         "updated_at": "2024-08-05 03:59:11",
         "traits": [
@@ -7229,6 +7434,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-05 04:01:20",
         "updated_at": "2024-08-05 04:01:20",
         "traits": [
@@ -7266,6 +7472,7 @@
         "franchise_id": 13,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 00:49:12",
         "updated_at": "2024-08-06 00:49:12",
         "traits": [
@@ -7300,6 +7507,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 00:50:37",
         "updated_at": "2024-08-06 00:50:37",
         "traits": [
@@ -7335,6 +7543,7 @@
         "franchise_id": 3,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 00:51:52",
         "updated_at": "2024-08-06 00:51:52",
         "traits": [
@@ -7370,6 +7579,7 @@
         "franchise_id": 10,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 00:52:57",
         "updated_at": "2024-08-06 00:52:57",
         "traits": [
@@ -7404,6 +7614,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 00:56:00",
         "updated_at": "2024-08-06 00:56:00",
         "traits": [
@@ -7439,6 +7650,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 00:57:13",
         "updated_at": "2024-08-06 00:57:13",
         "traits": [
@@ -7474,6 +7686,7 @@
         "franchise_id": 11,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 00:59:05",
         "updated_at": "2024-08-06 00:59:05",
         "traits": [
@@ -7509,6 +7722,7 @@
         "franchise_id": 1,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 01:00:48",
         "updated_at": "2024-08-06 01:00:48",
         "traits": [
@@ -7525,7 +7739,7 @@
         "name": "Robin Hood",
         "title": "Sharpshooter",
         "cost": 4,
-        "inkwell": 1,
+        "inkwell": 0,
         "attack": 1,
         "defence": 4,
         "color": 1,
@@ -7545,6 +7759,7 @@
         "franchise_id": 6,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 01:02:13",
         "updated_at": "2024-08-06 01:02:13",
         "traits": [
@@ -7580,6 +7795,7 @@
         "franchise_id": 27,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 01:03:39",
         "updated_at": "2024-08-06 01:03:39",
         "traits": [
@@ -7614,6 +7830,7 @@
         "franchise_id": 12,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 01:04:54",
         "updated_at": "2024-08-06 01:04:54",
         "traits": [
@@ -7650,6 +7867,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 01:06:47",
         "updated_at": "2024-08-06 01:06:47",
         "traits": [
@@ -7687,6 +7905,7 @@
         "franchise_id": 6,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 01:08:08",
         "updated_at": "2024-08-06 01:08:08",
         "traits": [
@@ -7721,6 +7940,7 @@
         "franchise_id": 15,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 01:08:57",
         "updated_at": "2024-08-06 01:08:57",
         "traits": [
@@ -7758,6 +7978,7 @@
         "franchise_id": 23,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 01:10:15",
         "updated_at": "2024-08-06 01:10:15",
         "traits": [
@@ -7779,7 +8000,7 @@
         "defence": 7,
         "color": 6,
         "type": "location",
-        "action": "<mark>THERE'S NO ONE I'D RATHER BE THAN ME</mark> Villain ↷, 3 ⬡ - Play a character with the same name as this character for free\" while here.",
+        "action": "<mark>THERE'S NO ONE I'D RATHER BE THAN ME</mark> Villain characters gain \"↷, 3 ⬡ - Play a character with the same name as this character for free\" while here.",
         "flavour": null,
         "separator": null,
         "stars": 1,
@@ -7794,6 +8015,7 @@
         "franchise_id": 30,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 01:11:33",
         "updated_at": "2024-08-06 01:11:33",
         "traits": [
@@ -7828,6 +8050,7 @@
         "franchise_id": 32,
         "final": 0,
         "spoiler": 1,
+        "published": 1,
         "created_at": "2024-08-06 01:12:55",
         "updated_at": "2024-08-06 01:12:55",
         "traits": [
