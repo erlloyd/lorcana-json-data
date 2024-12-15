@@ -30,6 +30,11 @@ const allSets = [
     englishSetName: "Shimmering Skies",
     missingLorcanitoImages: true,
   },
+  {
+    apiSetName: "6",
+    englishSetName: "Azurite Sea",
+    missingLorcanitoImages: true,
+  },
 ];
 
 const cardOverrides = {
