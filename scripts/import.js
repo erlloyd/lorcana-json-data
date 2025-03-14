@@ -35,6 +35,11 @@ const allSets = [
     englishSetName: "Azurite Sea",
     missingLorcanitoImages: true,
   },
+  {
+    apiSetName: "7",
+    englishSetName: "Archazia's Island",
+    missingLorcanitoImages: true,
+  },
 ];
 
 const cardOverrides = {
